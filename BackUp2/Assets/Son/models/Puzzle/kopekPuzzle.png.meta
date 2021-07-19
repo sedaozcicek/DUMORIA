@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: d9b7f9688846faa46a192f89f5b53e64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8541999422944888206
+    second: kopekPuzzle_0
+  - first:
+      213: -3400094726441537061
+    second: kopekPuzzle_1
+  - first:
+      213: -1436597266968232648
+    second: kopekPuzzle_2
+  - first:
+      213: 8887628137169910711
+    second: kopekPuzzle_3
+  - first:
+      213: -6810734103245494854
+    second: kopekPuzzle_4
+  - first:
+      213: -9155771356721304759
+    second: kopekPuzzle_5
+  - first:
+      213: 3562929352346890669
+    second: kopekPuzzle_6
+  - first:
+      213: 632149134431897682
+    second: kopekPuzzle_7
+  - first:
+      213: 4903790393899023043
+    second: kopekPuzzle_8
+  - first:
+      213: -6671731339371171080
+    second: kopekPuzzle_9
+  - first:
+      213: -6084512012205269049
+    second: kopekPuzzle_10
+  - first:
+      213: 2132251613441944472
+    second: kopekPuzzle_11
+  - first:
+      213: 2833002418136642909
+    second: kopekPuzzle_12
+  - first:
+      213: 1737690871323618947
+    second: kopekPuzzle_13
+  - first:
+      213: 3654042544724044020
+    second: kopekPuzzle_14
+  - first:
+      213: -3631868229602352064
+    second: kopekPuzzle_15
+  - first:
+      213: 7591442626200915837
+    second: kopekPuzzle_16
+  - first:
+      213: 2547563734899365909
+    second: kopekPuzzle_17
+  - first:
+      213: -6212772937041539191
+    second: kopekPuzzle_18
+  - first:
+      213: -6036392530363822089
+    second: kopekPuzzle_19
+  - first:
+      213: -7051560250164203381
+    second: kopekPuzzle_20
+  - first:
+      213: 8794876350670671291
+    second: kopekPuzzle_21
+  - first:
+      213: 5359702519758848133
+    second: kopekPuzzle_22
+  - first:
+      213: 1485201198804311686
+    second: kopekPuzzle_23
+  - first:
+      213: 4845794110419514948
+    second: kopekPuzzle_24
+  - first:
+      213: 2462843359882412832
+    second: kopekPuzzle_25
+  - first:
+      213: -1217660203244289186
+    second: kopekPuzzle_26
+  - first:
+      213: 4397335666574983899
+    second: kopekPuzzle_27
+  - first:
+      213: 3054055204488037030
+    second: kopekPuzzle_28
+  - first:
+      213: -8412115323821240601
+    second: kopekPuzzle_29
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kopekPuzzle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 502
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85c83cb7374b8670800000000000000
+      internalID: 8541999422944888206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 502
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f5cb5cdf60d0d0800000000000000
+      internalID: -3400094726441537061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 502
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dbf09a56e201ce0800000000000000
+      internalID: -1436597266968232648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 502
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb77cbb3b2375b70800000000000000
+      internalID: 8887628137169910711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 502
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5e96cfa696b71a0800000000000000
+      internalID: -6810734103245494854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b2eedd57a20f080800000000000000
+      internalID: -9155771356721304759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 407
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1f2766e51127130800000000000000
+      internalID: 3562929352346890669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_7
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 407
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25842ead948d5c800800000000000000
+      internalID: 632149134431897682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 407
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caf251c163cd0440800000000000000
+      internalID: 4903790393899023043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 407
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2b0f7f1bf3963a0800000000000000
+      internalID: -6671731339371171080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf58e0ef887f8ba0800000000000000
+      internalID: -6084512012205269049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 312
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89be5f69b87479d10800000000000000
+      internalID: 2132251613441944472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_12
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 312
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557bdc70b8d05720800000000000000
+      internalID: 2833002418136642909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 312
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eeeaa04a48d1810800000000000000
+      internalID: 1737690871323618947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 312
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e070a554c5b230800000000000000
+      internalID: 3654042544724044020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 217
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044668f6613099dc0800000000000000
+      internalID: -3631868229602352064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_16
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 217
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fc67be8d83a5960800000000000000
+      internalID: 7591442626200915837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 217
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518185528b3ca5320800000000000000
+      internalID: 2547563734899365909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 217
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f8a713eebc7c9a0800000000000000
+      internalID: -6212772937041539191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 217
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc7dec9fc6a3ca0800000000000000
+      internalID: -6036392530363822089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b2b03053d32e90800000000000000
+      internalID: -7051560250164203381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_21
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 122
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd8535917dad0a70800000000000000
+      internalID: 8794876350670671291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_22
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 122
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5800ef77b0d716a40800000000000000
+      internalID: 5359702519758848133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 122
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e17b21f9e7c9410800000000000000
+      internalID: 1485201198804311686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 122
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4463c3eb118bf3340800000000000000
+      internalID: 4845794110419514948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0238833bcf6cd2220800000000000000
+      internalID: 2462843359882412832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_26
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 27
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e538e702f700a1fe0800000000000000
+      internalID: -1217660203244289186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_27
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 27
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd28b5c9d79760d30800000000000000
+      internalID: 4397335666574983899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 27
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a241f3070f226a20800000000000000
+      internalID: 3054055204488037030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kopekPuzzle_29
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 27
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eec30aaea9224b80800000000000000
+      internalID: -8412115323821240601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6d0ba08aad645384386699d5a9844d27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
